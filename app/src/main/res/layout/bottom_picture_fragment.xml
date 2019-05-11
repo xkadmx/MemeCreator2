@@ -5,4 +5,23 @@
     android:layout_height="match_parent"
     android:background="@drawable/Square">
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/topTextMeme"
+        android:orientation="horizontal"
+        android:textColor="#FFF"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bottomTextMeme"
+        android:textColor="#FFF"
+        android:layout_below="@id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="285dp"/>
 </RelativeLayout>
