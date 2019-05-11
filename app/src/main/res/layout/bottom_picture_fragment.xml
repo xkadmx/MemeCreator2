@@ -7,21 +7,23 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/topTextMeme"
-        android:orientation="horizontal"
-        android:textColor="#FFF"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="15dp"/>
+        android:layout_marginTop="15dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:text="@string/topTextMeme"
+        android:textColor="#FFF" />
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/bottomTextMeme"
-        android:textColor="#FFF"
         android:layout_below="@id/textView"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="285dp"/>
+        android:layout_marginTop="285dp"
+        android:gravity="center_horizontal"
+        android:text="@string/bottomTextMeme"
+        android:textColor="#FFF" />
 </RelativeLayout>
