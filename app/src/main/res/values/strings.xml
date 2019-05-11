@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MemeCreator</string>
+    <string name="hint_topTextInput">Top</string>
+    <string name="hint_bottomTextInput">Bottom</string>
+    <item name="topTextInput" type="id">Top</item>
+    <item name="bottomTextInput" type="id">Bottom</item>
 </resources>
