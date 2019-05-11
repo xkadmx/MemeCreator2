@@ -5,6 +5,6 @@
     <string name="textButton">Let\'s go!</string>
     <string name="topTextMeme">Top</string>
     <string name="bottomTextMeme">Bottom</string>
-    <item name="topTextInput" type="id">Top</item>
-    <item name="bottomTextInput" type="id">Bottom</item>
+
+
 </resources>
