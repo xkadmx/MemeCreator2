@@ -3,8 +3,8 @@
     <string name="hint_topTextInput">Top</string>
     <string name="hint_bottomTextInput">Bottom</string>
     <string name="textButton">Let\'s go!</string>
-    <string name="topTextMeme">Top</string>
-    <string name="bottomTextMeme">Bottom</string>
+    <string name="topMemeText">Top</string>
+    <string name="bottomMemeText">Bottom</string>
 
 
 </resources>

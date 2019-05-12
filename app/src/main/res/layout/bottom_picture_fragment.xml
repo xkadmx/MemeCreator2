@@ -13,7 +13,7 @@
         android:layout_marginTop="15dp"
         android:gravity="center_horizontal"
         android:orientation="horizontal"
-        android:text="@string/topTextMeme"
+        android:text="@string/topMemeText"
         android:textColor="#FFF" />
 
     <TextView
@@ -24,6 +24,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="285dp"
         android:gravity="center_horizontal"
-        android:text="@string/bottomTextMeme"
+        android:text="@string/bottomMemeText"
         android:textColor="#FFF" />
 </RelativeLayout>

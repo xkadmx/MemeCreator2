@@ -3,4 +3,5 @@
     <item name="topTextInput" type="id"/>
     <item name="bottomTextInput" type="id"/>
     <item name="Button" type="id"/>
+    <item name="button" type="id"/>
 </resources>

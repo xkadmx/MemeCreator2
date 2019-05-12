@@ -20,6 +20,5 @@
         android:layout_height="300dp"
         android:layout_alignBottom="@id/fragment"
         android:layout_marginBottom="-370dp"
-        android:ignoreGravity="false"
         tools:layout="@layout/bottom_picture_fragment" />
 </RelativeLayout>
